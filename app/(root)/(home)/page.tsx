@@ -9,6 +9,7 @@ const Home = () => {
     timeZone: 'Asia/Kolkata' 
   })).format(now);
 
+  
   return (
     <section className="flex size-full flex-col gap-5 text-white">
       <div className="h-[303px] w-full rounded-[20px] bg-hero bg-cover">
